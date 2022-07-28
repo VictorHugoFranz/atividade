@@ -2,7 +2,7 @@
     <head>
         <meta charset="windows-1252">
         <title>Atividade 01</title>
-    </head>
+    </head>a
     <style>
         #titulo{
             margin-left: 45%;
