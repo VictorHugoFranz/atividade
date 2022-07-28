@@ -13,7 +13,7 @@
     </style>
     <body>
         <h1 id="titulo">Site de formularios</h1>
-        <form id="tabela" action="?page=salvar" method="POST">
+        <form id="tabela" action="?page=incluir" method="POST">
             <label>Nome:</label>
             <input type="text" name="nome" id="nome">
             </br>
