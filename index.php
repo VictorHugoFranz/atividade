@@ -11,7 +11,7 @@
             border: 1px solid black;
         }
     </style>
-    <body>a
+    <body>
         <h1 id="titulo">Site de formularios</h1>
         <form id="tabela" action="?page=incluir" method="POST">
             <label>Nome:</label>
