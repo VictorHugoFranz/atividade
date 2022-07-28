@@ -1,2 +1,2 @@
-# atividade
+# atividades
 faculdade
