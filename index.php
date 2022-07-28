@@ -2,7 +2,7 @@
     <head>
         <meta charset="windows-1252">
         <title>Atividade 01</title>
-    </head>a
+    </head>
     <style>
         #titulo{
             margin-left: 45%;
@@ -11,7 +11,7 @@
             border: 1px solid black;
         }
     </style>
-    <body>
+    <body>a
         <h1 id="titulo">Site de formularios</h1>
         <form id="tabela" action="?page=incluir" method="POST">
             <label>Nome:</label>
